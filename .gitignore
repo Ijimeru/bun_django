@@ -18,6 +18,8 @@ include
 lib
 db.sqlite3
 pyvenv.cfg
+media
+Scripts
 
 # Editor directories and files
 .vscode/*
